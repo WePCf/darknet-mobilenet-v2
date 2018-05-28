@@ -1,0 +1,8 @@
+classes=1000
+train  = mobilenet/imagenet1k.train.list
+valid  = mobilenet/imagenet1k.valid.list
+backup = backup/
+labels = mobilenet/synset.labels.list
+names  = mobilenet/synset.shortnames.list
+top=5
+

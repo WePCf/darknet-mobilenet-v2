@@ -31,4 +31,4 @@ MobileNet v2| 71.44| 90.33| 0.86Bn
 ### Note
 
 - With the parameter of `predict`, the outputs will be different according to options combination in Makefile
-- The network structure is not exactly same to the [paper](https://arxiv.org/abs/1801.04381), therefore the Ops is larger
+- The network structure is not exactly the same to the [paper](https://arxiv.org/abs/1801.04381), therefore the Ops is larger
